@@ -7,6 +7,8 @@
 ## Application Transaction
 ![](Images/web_2.jpeg)
 
-## Transaction in Ganache
-![](Images/ganache_transaction.png)
+## Transaction in Ganache Accounts
+![](Images/ganache_accounts.png)
 
+## Transaction in Ganache Transactions
+![](Images/ganache_transaction.png)
